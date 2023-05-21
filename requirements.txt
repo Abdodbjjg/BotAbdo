@@ -1,0 +1,8 @@
+wget
+youtube-search-python
+youtube-search
+yt-dlp
+git+https://github.com/yt-dlp/yt-dlp.git
+telegraph
+regex
+html5lib

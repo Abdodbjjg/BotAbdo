@@ -1,0 +1,8 @@
+},
+        "START_PIC": {
+            "description": "ضع رابط صورة تلكراف يضهر لكليشة ستارت",
+            "value": "https://telegra.ph/file/6562f05ad240159930959.jpg",
+            "value": "https://telegra.ph/file/6562f05ad240159930959.jpg",
+            "required": true
+
+        },
